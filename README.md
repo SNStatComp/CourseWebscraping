@@ -1,2 +1,2 @@
-# CBSAcademyBD
-Course material for the CBS Academy Big Data Sources course
+# CBSAcademyWebscraping
+Course material for the CBS Academy Web scraping course
