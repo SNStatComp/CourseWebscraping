@@ -1,4 +1,4 @@
 # CourseWebscraping
-Course material for the Course on Web scraping of the Statistical Computing group of Statistics Netherlands.
+Course materials for webscraping courses of the Statistics Netherlands' statistical computing group (SNStatComp).
 
 More info: o.tenbosch[at]cbs.nl
