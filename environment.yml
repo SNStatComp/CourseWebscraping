@@ -1,3 +1,6 @@
 name: course-webscraping
 channels:
   - defaults
+dependencies:
+  - bs4
+  - selenium
