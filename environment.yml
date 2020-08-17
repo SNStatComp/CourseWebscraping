@@ -4,3 +4,4 @@ channels:
 dependencies:
   - bs4
   - selenium
+  - lxml
