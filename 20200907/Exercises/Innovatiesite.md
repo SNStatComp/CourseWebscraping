@@ -1,1 +1,0 @@
-![opdracht](Innovatiesite.png "opdracht")
