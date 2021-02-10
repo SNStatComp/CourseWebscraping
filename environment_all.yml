@@ -3,4 +3,8 @@ channels:
   - defaults
 dependencies:
   - bs4
+  - selenium
   - lxml
+  - pip
+  - pip:
+    - justext
