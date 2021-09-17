@@ -1,0 +1,13 @@
+$.ajaxSetup ({  
+    cache: false  
+});
+/*
+$("#title, #logo").click (function()
+{
+	window.location = "/";
+});
+*/
+$(".caseblock").click (function()
+{
+	window.location = $(this).children('a').attr ("href");
+});
