@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SNStatComp/CourseWebscraping.git/master?filepath=20210913)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SNStatComp/CourseWebscraping.git/master?filepath=20220218)
 # CourseWebscraping
 Course materials for webscraping courses of the Statistics Netherlands' statistical computing group (SNStatComp).
 
