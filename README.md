@@ -1,4 +1,13 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SNStatComp/CourseWebscraping.git/master?filepath=20230414)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414/)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414/1_3_Course_Webscraping.ipynb)
+
+
+
 # CourseWebscraping
 Course materials for webscraping courses of the Statistics Netherlands' statistical computing group (SNStatComp).
 
