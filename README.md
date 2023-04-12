@@ -5,11 +5,11 @@ Course materials for webscraping courses of the Statistics Netherlands' statisti
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SNStatComp/CourseWebscraping.git/master?filepath=20230414)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414/1_3_Course_Webscraping.ipynb) course_1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414/1_3_Course_Webscraping.ipynb) webscraping
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414/1_3_Exercise_PriceList.ipynb) Exercise_1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414/1_3_Exercise_PriceList.ipynb) exercise_price_list
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414/1_3_Course_OpenData.ipynb) course_2
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230414/2_3_Course_OpenData.ipynb) opendata
 
 
 More info: o.tenbosch[at]cbs.nl
