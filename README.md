@@ -9,11 +9,11 @@ Course materials for webscraping courses of the Statistics Netherlands' statisti
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230911/1_3__Telefoonnummer.ipynb) tel nr
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230911/1_3_Exercise_RequestEnRegex.ipynb) exercise_request en regex
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230911/1_3_Exercise_RequestEnRegex.ipynb) exercise request en regex
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230911/2_2__BeautifulSoup.ipynb) exercise beautifulsoup
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230911/2_2__BeautifulSoup.ipynb) beautifulsoup
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230911/2_2_Exercise_PriceList.ipynb) exercise_price_list
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230911/2_2_Exercise_Price_List.ipynb) exercise_price_list
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNStatComp/CourseWebscraping/blob/master/20230911/2_3_CSS.ipynb) CSS
 
